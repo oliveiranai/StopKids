@@ -1,2 +1,2 @@
 # StopKids
- Um alarme que é acionado remotamente e possui um sensor reflexivo e um buzzer que emite um som sempre que o sensor detectar algo em sua frente.
+ Um dispostivo que possui um sensor reflexivo e um buzzer que emite um som sempre que o sensor detectar algo em sua frente. O alarme é acionado remotamente.
