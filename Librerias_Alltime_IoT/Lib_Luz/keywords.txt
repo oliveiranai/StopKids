@@ -1,0 +1,3 @@
+luz_ldr	KEYWORD1
+cel_ard	KEYWORD2
+cel_esp	KEYWORD3cel_esp32	KEYWORD4

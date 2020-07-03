@@ -1,0 +1,7 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Alltime		KEYWORD1
+Leer		KEYWORD2
+Enviar		KEYWORD3

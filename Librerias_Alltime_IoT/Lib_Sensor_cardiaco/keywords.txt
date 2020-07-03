@@ -1,0 +1,6 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+sensor		KEYWORD1
+Sensorcardiaco	KEYWORD2
